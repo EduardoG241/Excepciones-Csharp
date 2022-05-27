@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Excepciones CSharp\Excepciones CSharp\bin\Debug\Excepciones CSharp.exe.config
+C:\Users\eduar\source\repos\Excepciones CSharp\Excepciones CSharp\bin\Debug\Excepciones CSharp.exe
+C:\Users\eduar\source\repos\Excepciones CSharp\Excepciones CSharp\bin\Debug\Excepciones CSharp.pdb
+C:\Users\eduar\source\repos\Excepciones CSharp\Excepciones CSharp\obj\Debug\Excepciones CSharp.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Excepciones CSharp\Excepciones CSharp\obj\Debug\Excepciones CSharp.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Excepciones CSharp\Excepciones CSharp\obj\Debug\Excepciones CSharp.exe
+C:\Users\eduar\source\repos\Excepciones CSharp\Excepciones CSharp\obj\Debug\Excepciones CSharp.pdb
